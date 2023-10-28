@@ -39,8 +39,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
+
 ###
 
 <div align="center">
+   <h3>My statistics</h3>
+  
+###
+
   <img src="https://www.codewars.com/users/JanaAhurtsova/badges/large" alt="jana's codewars"  />
+
+###
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=janaahurtsova&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=janaahurtsova&layout=compact" height="140px"/>
 </div>
+
+
+
